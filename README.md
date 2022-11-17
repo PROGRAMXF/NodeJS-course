@@ -2,7 +2,16 @@
 Apuntes del curso de NodeJS
 
 
-module.export
+module.exports
 La variable const tiene un string pero puede tener cualquier otra cosa.
-![image](https://user-images.githubusercontent.com/113071685/202581386-4f98432a-df5f-4761-9616-2e16f0196ef2.png)
+![module](https://user-images.githubusercontent.com/113071685/202582972-c9031f0f-47b9-4115-9c8a-642972f4fcee.png)
+
+require
+Llamamos al valor exportado
+![require](https://user-images.githubusercontent.com/113071685/202583303-0c452870-9103-468f-bd39-b8a0bc922e18.png)
+
+module.exports para grupo de objetos
+![export grupo de objetos](https://user-images.githubusercontent.com/113071685/202584842-c8593e87-59b9-4cbb-a4cf-c1f4de396fad.png)
+
+
 
