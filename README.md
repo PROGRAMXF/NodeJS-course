@@ -13,5 +13,9 @@ Llamamos al valor exportado
 module.exports para grupo de objetos
 ![export grupo de objetos](https://user-images.githubusercontent.com/113071685/202584842-c8593e87-59b9-4cbb-a4cf-c1f4de396fad.png)
 
+module.exports para objetos individuales
+![exportIndividual](https://user-images.githubusercontent.com/113071685/202875429-dd1f922d-0202-4d60-b002-baf6f08018c3.png)
+
+
 
 
