@@ -1,5 +1,4 @@
 
-//ahora extraemos los valores exportados en exports
-const web = require('./module/myModule');
+const math = require ('./math/index');
 
-console.log(web);
+console.log(math);
