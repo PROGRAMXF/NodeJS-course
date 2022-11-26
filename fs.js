@@ -7,3 +7,12 @@ const second = fs.readFileSync('./data/second.txt')
 
 console.log(second.toString())
 console.log(first)
+
+//ahora podemos escribir un archivo
+fs.writeFileSync('./data/tercero.txt', 'este es un tercer archivo hello world 3')//dentro del parentesis creamos un archivo + el contenido
+
+//tambien podemos crear una variable con el contenido:
+
+const title = 'este es el cuarto archivo';
+
+fs.writeFileSync('./data/cuarto', title)
