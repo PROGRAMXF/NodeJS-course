@@ -17,5 +17,7 @@ module.exports para objetos individuales
 ![exportIndividual](https://user-images.githubusercontent.com/113071685/202875429-dd1f922d-0202-4d60-b002-baf6f08018c3.png)
 
 
+leemos un archivo, lo creamos, escribimos dentro de el y ademas creamos contenido a traves de una variable
+![1](https://user-images.githubusercontent.com/113071685/204102697-386a7d59-7a8a-4f8b-bf21-1637f91ce692.png)
 
 
