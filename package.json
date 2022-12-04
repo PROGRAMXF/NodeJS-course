@@ -1,0 +1,26 @@
+{
+  "name": "nodecurso",
+  "version": "1.0.0",
+  "description": "Apuntes del curso de NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PROGRAMXF/NodeJS-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PROGRAMXF/NodeJS-course/issues"
+  },
+  "homepage": "https://github.com/PROGRAMXF/NodeJS-course#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "colors": "^1.4.0",
+    "dayjs": "^1.11.6",
+    "lodash": "^4.17.21"
+  }
+}
