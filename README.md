@@ -21,3 +21,9 @@ leemos un archivo, lo creamos, escribimos dentro de el y ademas creamos contenid
 ![1](https://user-images.githubusercontent.com/113071685/204102697-386a7d59-7a8a-4f8b-bf21-1637f91ce692.png)
 
 
+instalando modulos de terceros con npm
+![Sin título](https://user-images.githubusercontent.com/113071685/205508492-45f79647-3183-4c96-8452-d878a326e383.png)
+
+
+
+
