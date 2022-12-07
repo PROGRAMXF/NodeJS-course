@@ -33,4 +33,8 @@ package.json listo
 ![Sin título1](https://user-images.githubusercontent.com/113071685/206056474-2e9b3560-ebc2-41ff-bd28-880a0999a2ab.png)
 
 
+el script dentro del package.json me sirve para crear comando que puedo ejecutar por la consola
+![Sin título3](https://user-images.githubusercontent.com/113071685/206059789-3302c3b2-a4bb-48a1-83a6-1c0d3043d5ef.png)
+
+
 
