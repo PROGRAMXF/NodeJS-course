@@ -36,5 +36,9 @@ package.json listo
 el script dentro del package.json me sirve para crear comando que puedo ejecutar por la consola
 ![Sin título3](https://user-images.githubusercontent.com/113071685/206059789-3302c3b2-a4bb-48a1-83a6-1c0d3043d5ef.png)
 
+ahora si sintalamos el modulo colors con npm, en el package.json me crea una dependencia
+![Sin título4](https://user-images.githubusercontent.com/113071685/206060959-303962f6-66fa-4d49-9116-70e566aa24cb.png)
+
+
 
 
