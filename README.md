@@ -43,6 +43,10 @@ llamamos con un require al modulo y le cambiamos el color
 ![image](https://user-images.githubusercontent.com/113071685/206061354-037ad5b8-dc60-411b-b13c-6c8496594b0d.png)
 
 
+creamos la carpeta src donde va el codigo para dejar el resto afuera y estar mas ordenado y debemos modificar la ruta del package.json
+![Sin título6](https://user-images.githubusercontent.com/113071685/206061991-700a8d65-0f47-4171-93a2-84171db7ab5d.png)
+
+
 
 
 
