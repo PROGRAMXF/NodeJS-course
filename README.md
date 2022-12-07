@@ -25,7 +25,7 @@ instalando modulos de terceros con npm
 ![Sin título](https://user-images.githubusercontent.com/113071685/205508492-45f79647-3183-4c96-8452-d878a326e383.png)
 
 
-instalando un proyecto con npm init y creando manualmente el package.json
+instalando un proyecto con npm init y creando manualmente el package.json que nos da informacion de nuestro proyecto
 ![Sin título](https://user-images.githubusercontent.com/113071685/206056352-1c54e7a0-eb9a-4e54-b6e5-d3ffd0da15f4.png)
 
 
