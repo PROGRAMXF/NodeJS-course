@@ -39,6 +39,10 @@ el script dentro del package.json me sirve para crear comando que puedo ejecutar
 ahora si sintalamos el modulo colors con npm, en el package.json me crea una dependencia
 ![Sin título4](https://user-images.githubusercontent.com/113071685/206060959-303962f6-66fa-4d49-9116-70e566aa24cb.png)
 
+llamamos con un require al modulo y le cambiamos el color 
+![image](https://user-images.githubusercontent.com/113071685/206061354-037ad5b8-dc60-411b-b13c-6c8496594b0d.png)
+
+
 
 
 
