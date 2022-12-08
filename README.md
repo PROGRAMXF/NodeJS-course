@@ -53,6 +53,10 @@ tambien podemos instalar modulos de manera global, osea directamente en la compu
 instalando el modulo cowsay, en la carpeta bin tenemos los ejecutables de consola
 ![Sin título1](https://user-images.githubusercontent.com/113071685/206548255-e3317edc-5dee-42d0-81d4-ed58259827df.png)
 
+llamando a un ejecutable del modulo cowsay donde me trae el dibujo de una vaca con un saludo
+![Sin título2](https://user-images.githubusercontent.com/113071685/206549219-6798e63d-0df5-4ba1-a818-d8b8de17e6e8.png)
+
+
 
 
 
