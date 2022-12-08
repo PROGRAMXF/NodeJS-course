@@ -62,6 +62,9 @@ con npx podemos llamar al modulo sin tener que instalarlo en nuestro proyecto y 
 instalamos un servidor para nuestro html creado en la carpeta public a traves del modulo serve llamado con npx
 ![Sin título6](https://user-images.githubusercontent.com/113071685/206552239-d0dcda53-6de8-49cf-875f-556d2242ca8b.png)
 
+servidor creado
+![Sin título7](https://user-images.githubusercontent.com/113071685/206552687-a802cfc4-4a55-485f-9fc8-a7eedc19e9bd.png)
+
 
 
 
