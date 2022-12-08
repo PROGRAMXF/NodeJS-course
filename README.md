@@ -56,6 +56,11 @@ instalando el modulo cowsay, en la carpeta bin tenemos los ejecutables de consol
 llamando a un ejecutable del modulo cowsay donde me trae el dibujo de una vaca con un saludo
 ![Sin título2](https://user-images.githubusercontent.com/113071685/206549219-6798e63d-0df5-4ba1-a818-d8b8de17e6e8.png)
 
+con npx podemos llamar al modulo sin tener que instalarlo en nuestro proyecto y se ejecuta de igual manera
+![Sin título5](https://user-images.githubusercontent.com/113071685/206550602-d24abd33-9954-44d9-99cb-c60e328f8a8c.png)
+
+
+
 
 
 
