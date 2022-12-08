@@ -59,6 +59,10 @@ llamando a un ejecutable del modulo cowsay donde me trae el dibujo de una vaca c
 con npx podemos llamar al modulo sin tener que instalarlo en nuestro proyecto y se ejecuta de igual manera
 ![Sin título5](https://user-images.githubusercontent.com/113071685/206550602-d24abd33-9954-44d9-99cb-c60e328f8a8c.png)
 
+instalamos un servidor para nuestro html creado en la carpeta public a traves del modulo serve llamado con npx
+![Sin título6](https://user-images.githubusercontent.com/113071685/206552239-d0dcda53-6de8-49cf-875f-556d2242ca8b.png)
+
+
 
 
 
