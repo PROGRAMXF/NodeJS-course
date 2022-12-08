@@ -46,6 +46,8 @@ llamamos con un require al modulo y le cambiamos el color
 creamos la carpeta src donde va el codigo para dejar el resto afuera y estar mas ordenado y debemos modificar la ruta del package.json
 ![Sin título6](https://user-images.githubusercontent.com/113071685/206061991-700a8d65-0f47-4171-93a2-84171db7ab5d.png)
 
+tambien podemos instalar modulos de manera global, osea directamente en la computadora a traves de npm install nodemon -g
+![Sin título](https://user-images.githubusercontent.com/113071685/206546005-ab06dc99-17fa-49a7-a3e9-f8bb6a746cec.png)
 
 
 
