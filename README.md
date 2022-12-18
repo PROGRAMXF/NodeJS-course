@@ -68,6 +68,10 @@ servidor creado
 eventos creados con el html desde el front
 ![Sin título](https://user-images.githubusercontent.com/113071685/208325243-eeb15776-c58d-4dbe-975b-5bd9310e5c2d.png)
 
+eventos creados con el modulo EventEmitter desde el back
+![Sin título3](https://user-images.githubusercontent.com/113071685/208325287-3f4711f2-ea6d-43c8-97e3-f6f6be0d3ce7.png)
+
+
 
 
 
