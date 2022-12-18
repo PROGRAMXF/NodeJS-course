@@ -65,6 +65,11 @@ instalamos un servidor para nuestro html creado en la carpeta public a traves de
 servidor creado
 ![Sin título7](https://user-images.githubusercontent.com/113071685/206552687-a802cfc4-4a55-485f-9fc8-a7eedc19e9bd.png)
 
+eventos creados con el html desde el front
+![Sin título](https://user-images.githubusercontent.com/113071685/208325243-eeb15776-c58d-4dbe-975b-5bd9310e5c2d.png)
+
+
+
 
 
 
