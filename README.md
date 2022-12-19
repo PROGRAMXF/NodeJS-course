@@ -65,6 +65,20 @@ instalamos un servidor para nuestro html creado en la carpeta public a traves de
 servidor creado
 ![Sin título7](https://user-images.githubusercontent.com/113071685/206552687-a802cfc4-4a55-485f-9fc8-a7eedc19e9bd.png)
 
+eventos creados con el html desde el front
+![Sin título](https://user-images.githubusercontent.com/113071685/208325243-eeb15776-c58d-4dbe-975b-5bd9310e5c2d.png)
+
+eventos creados con el modulo EventEmitter desde el back
+![Sin título3](https://user-images.githubusercontent.com/113071685/208325287-3f4711f2-ea6d-43c8-97e3-f6f6be0d3ce7.png)
+
+lo que muestra el evento en el localhost
+![Sin título4](https://user-images.githubusercontent.com/113071685/208325319-07e3d939-37c8-45f4-8bd8-8596251319c6.png)
+
+
+
+
+
+
 
 
 
