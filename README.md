@@ -74,6 +74,9 @@ eventos creados con el modulo EventEmitter desde el back
 lo que muestra el evento en el localhost
 ![Sin título4](https://user-images.githubusercontent.com/113071685/208325319-07e3d939-37c8-45f4-8bd8-8596251319c6.png)
 
+con el comando npm init -y creo el proyecto con el packaje.json. En el agrego el type: module que me permite usar la sintaxis import/export para los modulos
+![Sin título](https://user-images.githubusercontent.com/113071685/209410275-02675e74-3689-438b-a63a-b443bd3db283.png)
+
 
 
 
